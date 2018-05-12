@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '9815'
     url: http://www.gutenberg.org/2009/agents/9815
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21271#Chocolate--or-An-Indian-DrinkeBirth-Hastened-and-facilitated-Beauty-Gain-d-and-continued.
 gutenberg_bookshelf:
 - Cookery
 - Technology
