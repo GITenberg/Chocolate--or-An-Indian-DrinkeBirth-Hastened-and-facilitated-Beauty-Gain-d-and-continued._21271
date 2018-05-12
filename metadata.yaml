@@ -1,0 +1,50 @@
+_repo: Chocolate--or-An-Indian-DrinkeBirth-Hastened-and-facilitated-Beauty-Gain-d-and-continued._21271
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Wadsworth, James
+    birthdate: 1604
+    gutenberg_agent_id: '9816'
+    url: http://www.gutenberg.org/2009/agents/9816
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Colmenero de Ledesma, Antonio
+    alias: Ledesma, Antonio Colmenero de
+    gutenberg_agent_id: '9815'
+    url: http://www.gutenberg.org/2009/agents/9815
+description: ''
+gutenberg_bookshelf:
+- Cookery
+- Technology
+gutenberg_issued: '2007-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chocolate -- Early works to 1800'
+- !lcc 'QH'
+title: 'Chocolate: or, An Indian Drinke
+
+  By the wise and Moderate use whereof, Health is preserved,
+
+  Sicknesse Diverted, and Cured, especially the Plague of
+
+  the Guts; vulgarly called
+
+  The New Disease
+
+  ; Fluxes,
+
+  Consumptions, & Coughs of the Lungs, with sundry other
+
+  desperate Diseases. By it also, Conception is Caused, the
+
+  Birth Hastened and facilitated, Beauty Gain''d and continued.'
+url: http://www.gutenberg.org/ebooks/21271
